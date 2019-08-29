@@ -22,3 +22,5 @@ Elian.lozano@outlook.fr
   * Montage de palette, Filmage, Pose a quai, Controle de conformiter des livraison
 * **01.2019-04.2019** : Preparateur de commandes
   * Montage de palatte, Filmage, Pose a quai  
+
+Coucou
