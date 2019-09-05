@@ -1,0 +1,34 @@
+main {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    margin:auto;
+    width: 50%;
+}
+.name {
+    text-align: left;
+}
+.email, .name, .number, .message, .menuderoulant {
+    padding: 1em;
+}
+#modif {
+    padding: 0.5em;
+}
+.button {
+    text-align: right;
+    padding: 1em;
+}
+.firstname, .lastname {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    display: inline-block;
+    width: 40%;
+}
+p {
+    font-size: 10px;
+    text-align: left;
+    color: red;
+}
+span {
+    color: red;
+}
